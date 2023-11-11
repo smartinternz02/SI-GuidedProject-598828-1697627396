@@ -1,0 +1,49 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color:#bb1dcc;
+    color: white;
+}
+.logo img {
+    max-width: 100px;
+    height: auto;
+}
+.welcome {
+    font-size: 18px;
+}
+.menu ul {
+    list-style: none;
+    display: flex;
+}
+.menu li {
+    margin-right: 20px;
+    text-align: right;
+}
+.menu a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+.content {
+    padding: 20px;
+}
+.gallery, .events, .members {
+    margin-top: 40px;
+}
+.back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+}
+.footer {
+    background-color: #eee;
+    padding: 20px;
+    text-align: center;
+}
+.social-media-links a {
+    margin: 0 10px;
+}
+
