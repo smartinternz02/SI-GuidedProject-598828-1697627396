@@ -57,7 +57,7 @@
 <h2>Installation</h2>
 
 <p>Clone the repository: 
-   git clone https://github.com/ksc1728/vgg19-vitamin-model.git</p>
+   git clone https://github.com/smartinternz02/SI-GuidedProject-598828-1697627396.git</p>
 <p>Install dependencies: 
    pip install -r requirements.txt</p>
 <p>Run the app: 
